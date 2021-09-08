@@ -5,3 +5,4 @@ Hi, my name is **Jack** and I am from Shanghai, China. I was born in **Xinjiang*
 Here's a picture of me.
 
 ![picture](https://user-images.githubusercontent.com/89928060/131910291-6c3c8a60-c82c-4ef8-b932-5966f7d2ae04.JPG)
+[Here is the link of my work](https://github.com/zshi04/Wicked_Problems/blob/main/111)
